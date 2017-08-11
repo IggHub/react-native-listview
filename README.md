@@ -4,6 +4,8 @@ Original tutorial: Spencer Carli's [medium page](https://medium.com/differential
 
 Done using `create-react-native-app`. Viewable via [expo](https://expo.io).
 
+<img src="/assets/ios_simulator_sample.png" alt="app screenshot on ios simulator" style="width: 35%; display: block; margin: 0 auto;"/>
+
 # How to use this repo:
 
 1. Install React-Native. I would highly recommend downloading  [create-react-native-app](https://github.com/react-community/create-react-native-app/blob/master/react-native-scripts/template/README.md).
